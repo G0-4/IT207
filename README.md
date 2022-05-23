@@ -1,5 +1,6 @@
 # IT207
 A collection of Labs, Exercises, and Practicums from my IT 207 (Applied IT Programming) class.
+
 Assignment 1: A gpa calculator in which a user inputs both their grades for class Participation, Quizzes, Labs, and Practica. In addition to the earned and maximum points for each category, the user will specify the weight of each field. A POST form then takes all inputted data and calculates the resulting final grade, checking and returning an error for mathematical impossibilities (grades lower than 0% or higher than 100%).
 
 Assignment 2: A calendar which updates accurately for every month (including leap years), where in a user selects dates and times to schedule an appointment. From the index page, a POST form allows users to select the times for each day of the week that are open for appointments. <div> boxes are generated to simulate visual calendar "boxes", with the specified times listed as radio buttons. At the bottom of the calendar, is a submit button to allow users to finalize their chosen times.
