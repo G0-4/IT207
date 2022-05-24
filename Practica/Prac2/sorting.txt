@@ -1,0 +1,11 @@
+1. Iterate through users.txt file
+	a. Explode each line
+	b. Grab whatever value index we want and append it to value array
+	c. Close file at end of loop
+2. Sort the value array
+3. Iterate through the now-sorted array
+	a. Open and iterate through users.txt
+		I. Explode each line from user.txt
+		II. Compare the array index to each line
+		III. Append line to new line array if match
+		
