@@ -1,0 +1,57 @@
+<!doctype html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<link rel="stylesheet" href="styles.css" type="text/css" />
+	<head>
+		<title>
+			Index
+		</title>
+	</head>
+	<body>
+		<div id="outer-box">
+			<div id="side-menu">
+				<!--#include virtual="menu.inc" -->
+			</div>
+			<div id="content">
+				<div id="header">
+				<!--#include virtual="header.inc" -->
+				</div>
+				<div id="photo">
+					<img style="height: 100%; width: 100%; object-fit: contain" src="IMG_0209.jpg" alt="Ayy It's Me">
+				</div>
+					<div id="summary">
+					<p>
+						<b>Summary</b><br/>
+						<ul>
+							<li>Personal</li>
+							<ul>
+								<li>Home town and country of South Riding, VA.</li>
+								<li>Father is first generation American, whose parents arrived from Russia.</li>
+								<li>Mother is an immigrant from the Philippines.</li>
+							</ul>
+							<li>Academic</li>
+							<ul>
+								<li>Currently in second semester of Junior year.</li>
+								<li>Information Technology Major.</li>
+								<li>Cloud Computing Concentration.</li>
+							</ul>
+						</ul><br /><br />
+					</p>
+					</div>
+						<div id="details"
+							<p>
+								<b>Professional & Personal Details</b><br />
+							</p>
+							<p>
+								Hello,<br />
+								My name is Christopher Slavitt. I am currently in the second semester of my junior year. I may not look it, but I'm actually half caucasian on my father's side. I've grown up in South Riding, VA. I'm a graduate of Freedom High School (Go EaGlEs!!1!1)
+							</p>
+							<br />
+						</div>
+				<div id="footer">
+					<!--#include virtual="footer.inc" -->
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
